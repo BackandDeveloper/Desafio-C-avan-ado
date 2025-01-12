@@ -4,7 +4,7 @@
 
 ## ⌛| Tempo de conclusão do desafio
 
-  O de codificação
+  O de codificação 
 
 ## 🗂️| Estrutura do Projeto 
 
