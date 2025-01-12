@@ -1,6 +1,6 @@
 ## ⌛| Desafio C++ avançado
 
-  Nesse desafio, realizei cerca de 8 questões de nível avançado de C++. Pois, depois de muito tempo Com o objetivo de aprofundar ainda mais na linguagem.
+  Nesse desafio, realizei cerca de 8 questões de nível avançado de C++. Pois, depois de muito tempo realizandoCom o objetivo de aprofundar ainda mais na linguagem.
   
 
 ## 🗂️| Estrutura do Projeto 
