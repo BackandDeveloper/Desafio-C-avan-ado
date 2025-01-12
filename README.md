@@ -13,4 +13,4 @@
 
 ## 📧| Contato
 
-   📩| E-mail: henrique.pedro62@aluno.ifce.edu
+   📩| E-mail: henrique.pedro62@aluno.ifce.edu.
