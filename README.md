@@ -10,7 +10,7 @@
 
 ## 👥| Contribuições
 
-Caso tenha interrese em
+Caso tenha interrese em utili
 
 ## 📧| Contato
 
