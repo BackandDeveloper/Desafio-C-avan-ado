@@ -1,3 +1,3 @@
 ## ⌛| Desafio C++ avançado
 
-  Nesse de, realizei cerca de 8 questões de nível avançado de C++
+  Nesse desaf, realizei cerca de 8 questões de nível avançado de C++
