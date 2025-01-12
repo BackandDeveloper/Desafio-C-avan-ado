@@ -13,4 +13,4 @@
 
 ## 📧| E-mail
 
-   E-ma
+   E-mail
