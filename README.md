@@ -11,6 +11,6 @@
 ## 👥| Contribuições
 
 
-## 📧| Con
+## 📧| Conta
 
    📩| E-mail: 
