@@ -8,4 +8,4 @@
 
 ```
 
-## 👥| Contribui
+## 👥| Contribuições
