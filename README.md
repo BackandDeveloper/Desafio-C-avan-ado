@@ -2,7 +2,7 @@
 
   Nesse desafio, realizei cerca de 8 questões de nível avançado de C++. Pois, depois de muito tempo realizando meus estudos autodidatas, so a Com o objetivo de aprofundar ainda mais na linguagem.
 
-## | Tempo de conclusão do
+## | Tempo de conclusão do 
 
 ## 🗂️| Estrutura do Projeto 
 
