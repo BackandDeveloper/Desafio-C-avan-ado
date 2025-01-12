@@ -1,2 +1,2 @@
 # Desafio-C-avan-ado
-Nesse atividade do curso profissionalizante de C++ que estou faz
+Nesse atividade do curso profissionalizante de C++ que e
