@@ -1,3 +1,3 @@
 ## ⌛| Desafio C++ avançado
 
-  Nesse pro, realizei cerca de 
+  Nesse pro, realizei cerca de 8
