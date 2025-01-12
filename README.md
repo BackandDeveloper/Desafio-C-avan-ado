@@ -4,7 +4,7 @@
 
 ## ⌛| Tempo de conclusão do desafio
 
-  
+  O
 
 ## 🗂️| Estrutura do Projeto 
 
