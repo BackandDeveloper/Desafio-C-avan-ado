@@ -13,4 +13,4 @@
 
 ## 📧| Contato
 
-   📩| E-mail: henrique.pedro62
+   📩| E-mail: henrique.pedro62@
