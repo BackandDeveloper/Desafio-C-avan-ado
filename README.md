@@ -1,3 +1,3 @@
 ## ⌛| Desafio C++ avançado
 
-  Nesse projeto de
+  Nesse projeto,
