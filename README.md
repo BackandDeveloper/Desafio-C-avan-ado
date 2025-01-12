@@ -10,7 +10,7 @@
 
 ## 👥| Contribuições
 
-Caso tenha interrese em utilizar algum código acima, para desenvolver algum 
+Caso tenha interrese em utilizar algum código acima, para desenvolver algum projeto
 
 ## 📧| Contato
 
