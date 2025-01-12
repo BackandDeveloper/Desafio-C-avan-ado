@@ -10,8 +10,8 @@
 
 ## 👥| Contribuições
 
-Caso tenha interrese em utilizar algum código acima, para desenvolver algum projeto, sinta-se a vontade de me mandar
-
+Caso tenha interrese em utilizar algum código acima, para desenvolver algum projeto, sinta-se a vontade de me mandar 
+ 
 ## 📧| Contato
 
    📩| E-mail: henrique.pedro62@aluno.ifce.edu.br
