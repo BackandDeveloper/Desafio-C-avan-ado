@@ -1,3 +1,3 @@
 ## ⌛| Desafio C++ avançado
 
-  Nesse pro, realizei cerca de 8 questões de nível avançado de C++
+  Nesse , realizei cerca de 8 questões de nível avançado de C++
