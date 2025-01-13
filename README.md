@@ -20,7 +20,7 @@ Desafio-C++-Avançado/
 │   ├── 
 │   └── 
 ├── do
-│   └── READ
+│   └── R
 ├── 
 ├── 
 └── README.md
