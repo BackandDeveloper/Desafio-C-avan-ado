@@ -22,7 +22,7 @@ Desafio-C++-Avançado/
 ├── docs/
 │   └── README.md
 ├── .gitignore
-├── CMakeLists.
+├── CMakeLis
 └── README.md
 
 ```
