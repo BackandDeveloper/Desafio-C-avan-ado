@@ -9,6 +9,21 @@
 ## 🗂️| Estrutura do Projeto 
 
 ```
+Desafio-C++-Avançado/
+├── src/
+│   ├── main.cpp
+│   ├── utils.cpp
+│   └── utils.h
+├── include/
+│   └── utils.h
+├── tests/
+│   ├── test_main.cpp
+│   └── test_utils.cpp
+├── docs/
+│   └── README.md
+├── .gitignore
+├── CMakeLists.txt
+└── README.md
 
 ```
 
