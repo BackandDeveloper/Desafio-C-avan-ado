@@ -16,7 +16,7 @@ Desafio-C++-Avançado/
 │   └── III.c++
 │   └── IV.c++
 │   ├── V.c++
-│   └── VI
+│   └── VI.
 ├── 
 │   └── 
 ├── 
