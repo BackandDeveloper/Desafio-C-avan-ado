@@ -21,7 +21,7 @@ Desafio-C++-Avançado/
 │   └── test_utils.cpp
 ├── docs/
 │   └── README.md
-├── .gitignore
+├── .gitig
 ├── 
 └── README.md
 
