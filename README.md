@@ -18,7 +18,7 @@ Desafio-C++-Avançado/
 │   ├── V.c++
 │   └── VI.c++
 │   └── VII.c++
-├── VI
+├── VII
 └── README.md
 
 ```
