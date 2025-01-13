@@ -11,7 +11,7 @@
 ```
 Desafio-C++-Avançado/
 ├── src/
-│   ├── main.
+│   ├── mai
 │   ├── utils.cpp
 │   └── utils.h
 ├── include/
